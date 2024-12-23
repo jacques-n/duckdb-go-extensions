@@ -34,4 +34,4 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
-replace github.com/marcboeker/go-duckdb => github.com/sundeck-io/go-duckdb v0.0.0-20241219075846-7f395272e5da
+replace github.com/marcboeker/go-duckdb => github.com/sundeck-io/go-duckdb-latest v0.0.0-20241219075846-7f395272e5da
